@@ -1,0 +1,15 @@
+
+  
+  h1.centered {
+    text-align: center;
+  }
+
+/*.back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/images/eventimg.jpg');
+    /*height: 100vh; /* This ensures the content is vertically centered on the page */
+    /*margin: 0;*
+  }*/
+  
